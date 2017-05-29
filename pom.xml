@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>jdk_base</finalName>
+    <finalName>myweb</finalName>
   </build>
 </project>
